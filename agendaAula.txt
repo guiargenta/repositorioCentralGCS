@@ -3,3 +3,4 @@
 3. adicionar o arquivo para o repositório (git commit)
 4. git log     --oneline --graph    acompanhar o histórico de commits no repositórios
 5. git diff "arq.txt"     ver as diferenças
+6. git revert     --continue 
